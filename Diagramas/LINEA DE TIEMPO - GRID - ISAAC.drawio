@@ -1,20 +1,44 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="tCe3nE050u-tpmTw0nai">
-    <mxGraphModel dx="1935" dy="1063" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="600" math="0" shadow="0">
+    <mxGraphModel dx="1935" dy="1063" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2630" pageHeight="700" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vccuy-LklcKfFT2Vh3tB-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;strong&gt;1950-1980: orígenes en el diseño gráfico.&lt;/strong&gt; El Estilo Tipográfico Internacional (Suizo) popularizó las retículas modulares en impresos. En 1981, Josef Müller-Brockmann publicó &lt;em&gt;Grid Systems in Graphic Design&lt;/em&gt;." vertex="1">
-          <mxGeometry height="160" width="180" x="80" y="90" as="geometry" />
+        <mxCell id="vccuy-LklcKfFT2Vh3tB-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;strong&gt;1950-1980: orígenes en el diseño gráfico.&lt;/strong&gt; El Estilo Tipográfico Internacional (Suizo) popularizó las retículas modulares en impresos. En 1981, Josef Müller-Brockmann publicó &lt;em&gt;Grid Systems in Graphic Design&lt;/em&gt;." vertex="1">
+          <mxGeometry height="160" width="180" x="40" y="190" as="geometry" />
         </mxCell>
-        <mxCell id="vccuy-LklcKfFT2Vh3tB-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;strong&gt;Finales de los 90: diseño con tablas.&lt;/strong&gt; CSS1 (1996) ya existía, pero se maquetaba con &lt;code dir=&quot;ltr&quot;&gt;&amp;lt;table&amp;gt;&lt;/code&gt; y GIFs espaciadores." vertex="1">
-          <mxGeometry height="100" width="180" x="160" y="420" as="geometry" />
+        <mxCell id="vccuy-LklcKfFT2Vh3tB-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;strong&gt;Finales de los 90: diseño con tablas.&lt;/strong&gt; CSS1 (1996) ya existía, pero se maquetaba con &lt;code dir=&quot;ltr&quot;&gt;&amp;lt;table&amp;gt;&lt;/code&gt; y GIFs espaciadores." vertex="1">
+          <mxGeometry height="140" width="220" x="220" y="470" as="geometry" />
         </mxCell>
-        <mxCell id="vccuy-LklcKfFT2Vh3tB-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;strong&gt;2004-2006: layouts con &lt;code dir=&quot;ltr&quot;&gt;float&lt;/code&gt;.&lt;/strong&gt; Aparecen técnicas como &lt;em&gt;Faux Columns&lt;/em&gt; (Dan Cederholm, 2004) y &lt;em&gt;Holy Grail&lt;/em&gt; (A List Apart, 2006). En 2006 sale YUI Grids de Yahoo!." vertex="1">
-          <mxGeometry height="160" width="180" x="490" y="80" as="geometry" />
+        <mxCell id="vccuy-LklcKfFT2Vh3tB-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;strong&gt;2004-2006: layouts con &lt;code dir=&quot;ltr&quot;&gt;float&lt;/code&gt;.&lt;/strong&gt; Aparecen técnicas como &lt;em&gt;Faux Columns&lt;/em&gt; (Dan Cederholm, 2004) y &lt;em&gt;Holy Grail&lt;/em&gt; (A List Apart, 2006). En 2006 sale YUI Grids de Yahoo!." vertex="1">
+          <mxGeometry height="160" width="200" x="440" y="190" as="geometry" />
         </mxCell>
-        <mxCell id="vccuy-LklcKfFT2Vh3tB-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;strong&gt;2007: Blueprint CSS.&lt;/strong&gt; Es uno de los primeros frameworks de grilla, con 24 columnas." vertex="1">
-          <mxGeometry height="100" width="180" x="510" y="390" as="geometry" />
+        <mxCell id="vccuy-LklcKfFT2Vh3tB-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;strong&gt;2007: Blueprint CSS.&lt;/strong&gt; Es uno de los primeros frameworks de grilla, con 24 columnas." vertex="1">
+          <mxGeometry height="140" width="220" x="640" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="vccuy-LklcKfFT2Vh3tB-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;strong&gt;2008: 960 Grid System (Nathan Smith).&lt;/strong&gt; Popularizó las grillas de 12 y 16 columnas sobre un ancho fijo de 960 px, que es muy divisible." vertex="1">
+          <mxGeometry height="160" width="200" x="860" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="vccuy-LklcKfFT2Vh3tB-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;strong&gt;2010: Responsive Web Design (Ethan Marcotte).&lt;/strong&gt; Propone grillas fluidas con porcentajes y media queries. La grilla pasa de píxeles fijos a porcentajes." vertex="1">
+          <mxGeometry height="140" width="220" x="1060" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="vccuy-LklcKfFT2Vh3tB-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;strong&gt;2011: Bootstrap y Foundation.&lt;/strong&gt; Ambos usan 12 columnas con &lt;code dir=&quot;ltr&quot;&gt;float&lt;/code&gt; y clases como &lt;code dir=&quot;ltr&quot;&gt;.span4&lt;/code&gt; o &lt;code dir=&quot;ltr&quot;&gt;.col-md-4&lt;/code&gt;. Es el estándar de facto." vertex="1">
+          <mxGeometry height="160" width="200" x="1280" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="vccuy-LklcKfFT2Vh3tB-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;strong&gt;2013: Bootstrap 3.&lt;/strong&gt; Adopta el enfoque mobile-first con breakpoints (&lt;code dir=&quot;ltr&quot;&gt;xs&lt;/code&gt;, &lt;code dir=&quot;ltr&quot;&gt;sm&lt;/code&gt;, &lt;code dir=&quot;ltr&quot;&gt;md&lt;/code&gt;, &lt;code dir=&quot;ltr&quot;&gt;lg&lt;/code&gt;)." vertex="1">
+          <mxGeometry height="140" width="220" x="1480" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="vccuy-LklcKfFT2Vh3tB-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;strong&gt;2012-2015: Flexbox.&lt;/strong&gt; Madura la especificación y llega el soporte amplio en navegadores. Reemplaza los floats y resuelve la alineación vertical y la distribución del espacio." vertex="1">
+          <mxGeometry height="160" width="200" x="1700" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="vccuy-LklcKfFT2Vh3tB-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;strong&gt;2017: CSS Grid Layout.&lt;/strong&gt; Soporte en todos los navegadores principales (Firefox, Chrome y Safari en marzo; Edge en octubre). Ahora se puede escribir &lt;code dir=&quot;ltr&quot;&gt;grid-template-columns: repeat(12, 1fr)&lt;/code&gt; de forma nativa, sin depender de frameworks." vertex="1">
+          <mxGeometry height="140" width="220" x="1900" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="vccuy-LklcKfFT2Vh3tB-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;strong&gt;2018: Bootstrap 4.&lt;/strong&gt; Su grilla pasa a basarse en Flexbox." vertex="1">
+          <mxGeometry height="160" width="200" x="2120" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="vccuy-LklcKfFT2Vh3tB-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;strong&gt;2021-hoy: Bootstrap 5, Tailwind y CSS moderno.&lt;/strong&gt; Bootstrap 5 (2021) elimina el soporte de IE y ofrece Grid opcional. Tailwind usa &lt;code dir=&quot;ltr&quot;&gt;grid-cols-12&lt;/code&gt;. Se suman &lt;code dir=&quot;ltr&quot;&gt;subgrid&lt;/code&gt; y las &lt;em&gt;container queries&lt;/em&gt;, que permiten grillas adaptables al contenedor y no solo a la pantalla." vertex="1">
+          <mxGeometry height="140" width="220" x="2320" y="470" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
